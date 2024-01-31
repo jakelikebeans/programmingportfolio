@@ -29,4 +29,4 @@ OOP graphical game with sound and keyboard/mouse listeners.
 
 ### Grade
 
-![Gameplay](
+![Gameplay](https://github.com/jakelikebeans/programmingportfolio/blob/main/images/Grade.png?raw=true)

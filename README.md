@@ -29,5 +29,5 @@ A Character with a body and a part of his body that changes colors randomly.
 ![Gameplay](https://github.com/jakelikebeans/programmingportfolio/blob/main/images/Zoog.png?raw=true)
 
 ### Grade
-A timeline thing where you drag it accross to get number values that your letter grade goes up and down based on the values.
+A line where you drag it accross to get number values that your letter grade goes up and down based on the values.
 ![Gameplay](https://github.com/jakelikebeans/programmingportfolio/blob/main/images/Grade.png?raw=true)

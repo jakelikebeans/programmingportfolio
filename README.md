@@ -5,12 +5,9 @@ Skyline High School Computer Programming 1-2
 *ECS 1
 
 
-## Group Project (2023-24)
+## Group Projects (2023-24)
 
-
-
-
-##Individual Projects (2023-24)
+## Individual Projects (2023-24)
 
 ### SpaceGame
 OOP graphical game with sound and keyboard/mouse listeners.

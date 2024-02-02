@@ -18,8 +18,10 @@ OOP graphical game with sound and keyboard/mouse listeners.
 
 ### Calculator
 
-Its a Calculator.
+
 ![Gameplay](https://github.com/jakelikebeans/programmingportfolio/blob/main/images/Calculator.png?raw=true)
+
+Its a Calculator.
 
 ### Drive Cars
 

@@ -43,9 +43,11 @@ A Character with a body and a part of his body that changes colors randomly.
 
 ### Grade
 
-A line where you drag it accross to get number values that your letter grade goes up and down based on the values.
+
 
 ![Gameplay](https://github.com/jakelikebeans/programmingportfolio/blob/main/images/Grade.png?raw=true)
 
 
 [Source Code For Grade](https://github.com/jakelikebeans/programmingportfolio/blob/main/src/Grades.zip)
+
+A line where you drag it accross to get number values that your letter grade goes up and down based on the values.

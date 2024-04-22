@@ -5,6 +5,10 @@ Skyline High School Computer Programming 1-2
 *ECS 1
 
 
+## Contact Info
+
+paulschl9633@graniteschools.org
+
 ## Group Projects (2023-24)
 
 ## Individual Projects (2023-24)

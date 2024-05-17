@@ -53,17 +53,27 @@ A line where you drag it accross to get number values that your letter grade goe
 
 [Source Code For Grade](https://github.com/jakelikebeans/programmingportfolio/blob/main/src/Grades.zip)
 
+# Final Project
+
 # Targets-Shooter
 
 
 ## Description
 This target shooter game is a simple 2d game where you have to shoot targets with a gun. 
-It is a console based game that will be created in processing.
+It is a console-based game that will be created in processing.
 I want to include a start screen, a score counter, and an end screen if the player reaches the amount of targets needed.
 Additionally, I would like to keep the display quite simple since overcomplicating a display will often distract the player resulting in them losing.
 Along with this, I would like to give the player specific instructions on what to do when they win or lose this particular game.
-Finally, it is visually stimulating game with high end graphics and handcrafted/original images.
+Finally, it is a visually stimulating game with high-end graphics and handcrafted/original images.
 
+
+# Errors Logic/Runtime
+I had trouble getting certain images to render they were in the game but they couldn't display on the screen.
+Certain functions also had trouble rendering such as the scoreboard, and the lasers.
+Additionally, the scoreboard and function that track actions in the game such as # of lasers, health, and other factors were not developed correctly leading to further errors which I then had to comment on so the game works. However, it doesn't have all of the features that make it a completely functioning game because I had great difficulty in debugging because it was a lot of code.
+
+# Application Look and Feel
+The application looks and feels fine, it runs but with incomplete features such as the ones stated above.
 
 <img src ="https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/db8998b5-eec9-4d77-81fe-1f23ed70e57c" width="300" height="300">
 
